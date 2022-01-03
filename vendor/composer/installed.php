@@ -1,11 +1,11 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => '9.3.0',
-        'version' => '9.3.0.0',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => NULL,
+        'reference' => 'f41411d3e13b5fcc30966c859d2e846b3eb0728b',
         'name' => 'drupal/recommended-project',
         'dev' => true,
     ),
@@ -635,12 +635,12 @@
             ),
         ),
         'drupal/recommended-project' => array(
-            'pretty_version' => '9.3.0',
-            'version' => '9.3.0.0',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => NULL,
+            'reference' => 'f41411d3e13b5fcc30966c859d2e846b3eb0728b',
             'dev_requirement' => false,
         ),
         'drupal/responsive_image' => array(
