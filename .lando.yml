@@ -1,4 +1,4 @@
-name: satvik-food
+name: satvik-foods
 recipe: drupal9
 config:
   webroot: .
